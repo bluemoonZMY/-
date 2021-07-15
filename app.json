@@ -1,0 +1,59 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/demo01/index",
+        "pages/demo02/index",
+        "pages/demo03/index",
+        "pages/demo04/index",
+        "pages/txt/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#ffff00",
+        "navigationBarTitleText": "新大说网",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true,
+        "backgroundColor":"#ffff00"
+    },
+    "tabBar": {
+        "color": "#999",
+        "selectedColor": "#ff2d4a",
+        "backgroundColor": "#fafafa",
+        "position": "bottom",
+        "borderStyle": "black",
+        "list": [
+          {
+            "pagePath": "pages/index/index",
+            "text": "写书",
+            "iconPath": "icons/shouye_.png",
+            "selectedIconPath": "icons/shouye.png"
+          },
+          {
+            "pagePath": "pages/demo01/index",
+            "text": "书架",
+            "iconPath": "icons/yiqi_.png",
+            "selectedIconPath": "icons/yiqi.png"
+          },
+          {
+            "pagePath": "pages/demo02/index",
+            "text": "书城",
+            "iconPath": "icons/xiangzi_.png",
+            "selectedIconPath": "icons/xiangzi.png"
+          },
+          {
+            "pagePath": "pages/demo03/index",
+            "text": "社区",
+            "iconPath": "icons/renyuan_.png",
+            "selectedIconPath": "icons/renyuan.png"
+          },
+          {
+            "pagePath": "pages/demo04/index",
+            "text": "我的",
+            "iconPath": "icons/renyuan_.png",
+            "selectedIconPath": "icons/renyuan.png"
+          }
+        ]
+      },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}

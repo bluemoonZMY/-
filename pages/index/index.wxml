@@ -1,0 +1,153 @@
+<view class="top">首页版头</view>
+<view class="empty"></view>
+<view class="middle">
+
+    <scroll-view scroll-x="true" class="scroll">
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt">科幻灾难宇宙</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt">灵灾宇宙</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt">迷雾宇宙</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt">元素魔法宇宙</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt">怪谈宇宙</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt">童话宇宙</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt">妖魔宇宙</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt">遗迹宇宙</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt">第一战区</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt">第二战区</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt">第三战区</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image mode="widthFix" src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt">第四战区</view>
+        </view>
+    </scroll-view>
+
+
+
+</view>
+<view class="sheet"></view>
+<view class="universe">
+
+    <scroll-view scroll-x="true" class="scroll">
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image class="image1"  src="../../icons/cover/6.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt1">蓝月亮</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image class="image1" src="../../icons/cover/7.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt1">平行女神</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image class="image1"  src="../../icons/cover/8.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt1">秘密女神（手机娘）</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image class="image1"  src="../../icons/cover/9.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt1">未来女神</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image class="image1"  src="../../icons/cover/10.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt1">拇指姑娘</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image class="image1"  src="../../icons/cover/11.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt1">知心女神</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image class="image1" src="../../icons/cover/12.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt1">理想女神</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image class="image1" src="../../icons/cover/13.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt1">影子女神</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image class="image1"  src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt1">我当上帝那些事</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image class="image1"  src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt1">我当上帝那些事</view>
+        </view>
+        <view class="choosecircle">
+            <view class="choosecircle-up">
+                <image class="image1"  src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-uptxt1">我当上帝那些事</view>
+            <view class="empty"></view>
+            <view class="choosecircle-down">
+                <image class="image1"  src="../../icons/cover/5.jpg"></image>
+            </view>
+            <view class="choosecircle-downtxt1">我当上帝那些事</view>
+        </view>
+    </scroll-view>
+
+
+
+
+</view>
+<view class="sheet"></view>

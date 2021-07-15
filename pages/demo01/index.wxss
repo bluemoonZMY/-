@@ -1,0 +1,70 @@
+.top{
+  height:70rpx;
+  background-color: rgb(228, 23, 217);
+  display: flex;
+flex-direction: row;
+}
+.topfont2{
+  width:15%;
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+color: rgb(255, 255, 255);
+font-size:40rpx;
+font-weight: 800;
+text-align: center;
+}
+.topfont2end{
+  width:15%;
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+color: rgb(255, 255, 255);
+font-size:40rpx;
+font-weight: 800;
+text-align: end;
+}
+.topfont4{
+  width:24%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  font-size:40rpx;
+  font-weight: 800;
+  text-align: center;
+  }
+.dividingLine{
+  width: 3rpx;
+  background-color:white;
+}
+.container{
+  height:250rpx;
+  display: flex;
+  flex-direction: row;
+  
+}
+image{
+  width:90%;
+}
+.containerleft{
+width:250rpx;
+margin-top: 12rpx;
+}
+.containerright{
+  width:500rpx;
+  margin-top: 12rpx;
+}
+.right1{
+  font-size:40rpx;
+  font-weight: 800;
+
+}
+.right2{
+margin-top: 12rpx;
+
+}
+.right3{
+  margin-top: 12rpx;
+  
+  }

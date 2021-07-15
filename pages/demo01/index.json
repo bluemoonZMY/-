@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+
+  },
+    "navigationBarTitleText": "小说分类",
+    "navigationBarBackgroundColor": "#e417d9",
+      "enablePullDownRefresh":true,
+      "backgroundTextStyle": "dark",
+      "backgroundColor":"#e417d9"
+}

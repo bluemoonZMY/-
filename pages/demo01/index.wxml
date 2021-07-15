@@ -1,0 +1,64 @@
+<view class="top">
+<view class="topfont2">管理</view>
+<view class="dividingLine">
+</view>
+<view class="topfont2">导入</view>
+<view class="dividingLine"></view>
+<view class="topfont4">缓存管理</view>
+<view class="dividingLine"></view>
+<view class="topfont4">有声下载</view>
+<view class="dividingLine"></view>
+<view class="topfont2end">网格</view>
+</view>
+<view bindtap="code1" class="container">
+<view class="containerleft">
+  <image mode="widthFix" src="../../icons/cover/1.jpg"></image>
+</view>
+<view class="containerright">
+
+<view class="right1">《智力尽头》</view>
+<view class="right2">最新章节：完</view>
+<view class="right3">读到：12.0</view>
+
+</view>
+</view>
+
+<view class="container">
+<view class="containerleft">
+  <image mode="widthFix" src="../../icons/cover/2.jpg"></image>
+
+</view>
+<view class="containerright">
+
+  <view class="right1">《时光机》</view>
+<view class="right2">最新章节：大结局</view>
+<view class="right3">读到：章一：时光机</view>
+</view>
+</view>
+
+<view class="container">
+
+  <view class="containerleft">
+    <image mode="widthFix" src="../../icons/cover/3.jpg"></image>
+  
+  </view>
+<view class="containerright">
+  <view class="right1">《最后一个狐狸精》</view>
+<view class="right2">最新章节 卷一：狐仙出洞</view>
+<view class="right3">读到 卷一：狐仙出洞</view>
+
+</view>
+</view>
+
+<view class="container">
+  <view class="containerleft">
+  <image mode="widthFix" src="../../icons/cover/4.jpg"></image>
+  </view>
+<view class="containerright">
+
+  <view class="right1">《上帝们第一战区》</view>
+<view class="right2">最新章节：终局《完》</view>
+<view class="right3">读到：旧日重升，众生有相众生见</view>
+
+</view>
+</view>

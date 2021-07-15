@@ -1,0 +1,65 @@
+
+<view class="page" style='color:{{pageColor}};background-color: {{pageBackgroundColor}};'>
+
+
+    <view class="up">
+    <view class="left" style="width:{{left.Width}}px;" animation="{{leftout}}">
+    <view class="left1">{{num1}}</view>
+    <view class="left1">{{num2}}</view>
+    <view class="left1">{{num3}}</view>
+    <view class="left1">{{num4}}</view>
+    <view class="left1">{{num5}}</view>
+     </view>
+    <view class="right">
+        <view class="main-body">
+            <view class="top">第一章</view>
+            <view class="txt">“爸爸，妈妈，你们为什么要生我？”</view>
+        </view>
+    </view>
+</view>
+<view class="bottom" bindtap="contenttap">
+    <view class="bar">
+
+        <view class="bar-top">
+            <image mode="widthFix" src="../../icons/cover/14.png"></image>
+        </view>
+        <view class="bar-bottom">目录</view>
+    </view>
+    <view class="bar">
+        <view class="bar-top">
+            <image mode="widthFix" src="../../icons/cover/14.png"></image>
+        </view>
+        <view class="bar-bottom">字体</view>
+    </view>
+    <view class="bar">
+        <view class="bar-top">
+            <image mode="widthFix" src="../../icons/cover/14.png"></image>
+        </view>
+        <view class="bar-bottom">行距</view>
+    </view>
+    <view class="bar">
+        <view class="bar-top">
+            <image mode="widthFix" src="../../icons/cover/14.png"></image>
+        </view>
+        <view class="bar-bottom">收藏</view>
+    </view>
+    <view class="bar">
+        <view class="bar-top">
+            <image mode="widthFix" src="../../icons/cover/14.png"></image>
+        </view>
+        <view class="bar-bottom">背景</view>
+    </view>
+</view>
+
+
+
+
+<view>
+  <image src="../../icons/cover/14.png" class="img-style" animation="{{animCollect}}" bindtap="collect"></image>
+  <image src="../../icons/cover/14.png" class="img-style" animation="{{animTranspond}}" bindtap="transpond"></image>
+  <image src="../../icons/cover/14.png" class="img-style" animation="{{animInput}}" bindtap="input"></image>
+  <image src="../../icons/cover/14.png" class="img-plus-style" animation="{{animPlus}}" bindtap="plus"></image>
+</view>
+</view>
+
+
